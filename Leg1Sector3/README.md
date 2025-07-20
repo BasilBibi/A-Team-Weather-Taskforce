@@ -33,5 +33,5 @@ The following years were extracted
 | Significant Wave Period | [Copernicus Marine CMEMS](https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-032.pdf) cmems_mod_glo_wav_my_0.2deg_PT3H-i cmems_mod_glo_wav_myint_0.2deg_PT3H-i | VTM10 |FetchAndDump-Waves.sh |
 | Significant Wave Height | [Copernicus Marine CMEMS](https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-032.pdf) cmems_mod_glo_wav_my_0.2deg_PT3H-i cmems_mod_glo_wav_myint_0.2deg_PT3H-i | VTM0 |FetchAndDump-Waves.sh |
 
-*NB* FetchAndDump-Waves displays the wave pewriod and wave heights in one run.
+*NB* FetchAndDump-Waves displays the wave period and wave heights in one run.
 
