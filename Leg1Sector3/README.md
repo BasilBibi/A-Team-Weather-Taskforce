@@ -29,7 +29,7 @@ The following years were extracted
 | Mean Sea Level Pressure| [Copernicus ERA5 hourly data on single levels from 1940 to present](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview) | mean_sea_level_pressure | FetchAndDumpMSL.sh |
 | Precipitation | [Copernicus ERA5 hourly data on single levels from 1940 to present](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview) | mean_total_precipitation_rate | FetchAndDump-avg-tprate.sh |
 | Current Direction/Speed | [Copernicus Marine CMEMS](https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-030.pdf) cmems_mod_glo_phy_my_0.083deg_P1D-m cmems_mod_glo_phy_myint_0.083deg_P1D-m | vo uo | FetchAndDump-CopMarCurrents.sh |
-| Sea Surface Temperature| [Copernicus ERA5 hourly data on single levels from 1940 to present](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview) | sea_surface_teperature | FetchAndDumpSST.sh |
+| Sea Surface Temperature| [Copernicus ERA5 hourly data on single levels from 1940 to present](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview) | sea_surface_temperature | FetchAndDumpSST.sh |
 | Significant Wave Period | [Copernicus Marine CMEMS](https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-032.pdf) cmems_mod_glo_wav_my_0.2deg_PT3H-i cmems_mod_glo_wav_myint_0.2deg_PT3H-i | VTM10 |FetchAndDump-Waves.sh |
 | Significant Wave Height | [Copernicus Marine CMEMS](https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-032.pdf) cmems_mod_glo_wav_my_0.2deg_PT3H-i cmems_mod_glo_wav_myint_0.2deg_PT3H-i | VTM0 |FetchAndDump-Waves.sh |
 
