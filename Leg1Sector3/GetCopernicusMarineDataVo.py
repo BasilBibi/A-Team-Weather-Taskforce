@@ -20,7 +20,6 @@ cpm.login(username=os.environ['COPERNICUSMARINE_SERVICE_USERNAME'],
 
 currents_ds_0 = "cmems_mod_glo_phy_my_0.083deg_P1D-m"
 currents_ds_1 = "cmems_mod_glo_phy_myint_0.083deg_P1D-m"
-#waves_ds    = "cmems_mod_glo_wav_anfc_0.083deg_PT3H-i"
 
 for dt_str in [
     f'2015-{month}-{day}', 

@@ -22,11 +22,10 @@ request = {
     "day": [ day ],
     "time": [ "00:00", "06:00", "12:00", "18:00" ],
     "data_format": "netcdf",
-    "download_format": "zip",
     'area': [
         north, west, south, east,  # North, West, South, East (Example: parts of Europe)
     ],
 }
 
 client = cdsapi.Client()
-client.retrieve(dataset, request).download()
+client.retrieve(dataset, request, 'data.nc')
