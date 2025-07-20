@@ -1,6 +1,6 @@
 #Leg1 Sector3
 
-This sector was divided into 3 main loactions for data collection as shown in this diagram.
+This sector was divided into 3 main locations for data collection as shown in this diagram.
 
 ![alt text](Leg1Sector3Location.jpeg "Leg1 Sector3")
 
