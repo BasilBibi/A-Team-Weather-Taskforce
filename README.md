@@ -1,5 +1,5 @@
 # A-Team-Weather-Taskforce
-This repository contains all Wether Briefing research work done by Seattle Sports crew "A-Team" 
+This repository contains all Weather Briefing research work done by Seattle Sports crew "A-Team" 
 
 Dear Weather Rockets of the A-Team!
 
